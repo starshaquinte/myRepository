@@ -1,1 +1,2 @@
  This is my text file
+ Adding another modification to file 1
