@@ -280,10 +280,10 @@ section {
     box-shadow: 0 0 18px rgba(100,65, 0, .8);
 }
 
-.form spacer {
+.form-spacer {
     padding: 30px 39px;
 }
-terms {
+.terms {
     margin: 30px 1px 0 0; 
     margin-top: 13%;
     padding-left: 52px;
