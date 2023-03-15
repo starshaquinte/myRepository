@@ -1,0 +1,21 @@
+html {
+    font-family: fantasy;
+    font-size: 40px;
+}
+
+input {
+    width: 200px;
+
+}
+
+input {
+    margin: 20px;
+}
+
+input {
+    border: 3px solid black;
+}
+
+input {
+    border-radius: 65px;
+}
