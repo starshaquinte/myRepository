@@ -1,0 +1,44 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+img {
+filter: grayscale(100%);
+}
+
+img {
+  border-radius: 10px;
+}
+
+table, td, th {  
+  border: 10px solid black;
+  text-align: center;
+}
+
+th, td {
+  padding: 15px;
+}
+
+th {
+  background-color: #FFF0F5;
+}
+
+.container {
+  height: 500px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+
+.top-left {
+  position: absolute;
+  top: 0;
+  left: 0;
+  justify-content: center;
+}
+
+footer { text-align: center; font-weight: bold;
+}
+
+
